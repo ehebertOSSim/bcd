@@ -1,0 +1,6 @@
+c:\users\ehebert\documents\visual studio 2015\Projects\bcdsettings\bcdsettings\bin\Debug\bcdsettings.exe.config
+c:\users\ehebert\documents\visual studio 2015\Projects\bcdsettings\bcdsettings\bin\Debug\bcdsettings.exe
+c:\users\ehebert\documents\visual studio 2015\Projects\bcdsettings\bcdsettings\bin\Debug\bcdsettings.pdb
+c:\users\ehebert\documents\visual studio 2015\Projects\bcdsettings\bcdsettings\obj\Debug\bcdsettings.csprojResolveAssemblyReference.cache
+c:\users\ehebert\documents\visual studio 2015\Projects\bcdsettings\bcdsettings\obj\Debug\bcdsettings.exe
+c:\users\ehebert\documents\visual studio 2015\Projects\bcdsettings\bcdsettings\obj\Debug\bcdsettings.pdb
